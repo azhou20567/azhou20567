@@ -3,7 +3,7 @@
 - Computer Science student at Georgia Tech  
 - Former Software Engineering Intern @ USAA  
 
-##Technical Skills
+## Technical Skills
 
 **Languages:** Python, Java, C++, Go, JavaScript, TypeScript, SQL
 
