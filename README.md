@@ -1,4 +1,4 @@
-# Hi, I'm Andrew Zhou! 
+# Hi, I'm Andrew Zhou
 
 - Computer Science student at Georgia Tech  
 - Former Software Engineering Intern @ USAA  
@@ -24,7 +24,7 @@
 Full-stack application built with Python, React, Django, MySQL, and Bootstrap.
 
 ### [RouteWise](https://github.com/azhou20567/RouteWise)
-Software development project.
+Full-stack bus tracking application.
 
 ### [streaklo](https://github.com/azhou20567/streaklo)
 Social habit-tracking application developed for HackGT 11.
