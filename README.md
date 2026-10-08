@@ -32,4 +32,4 @@ Social habit-tracking application developed for HackGT 11.
 ## Connect With Me
 
 - **GitHub:** [azhou20567](https://github.com/azhou20567)
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/azhou322)
+- **LinkedIn:** [azhou322](www.linkedin.com/in/azhou322)
